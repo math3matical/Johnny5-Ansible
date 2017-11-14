@@ -3,7 +3,7 @@
 ---
 - hosts: localhost
 
-{{ vars_yo }}
+  {{ vars_yo }}
 #  vars:
 #    create_user_name: 'fisherprice'
 #    create_user_password: 'secret'
